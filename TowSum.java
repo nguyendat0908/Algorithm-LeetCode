@@ -1,6 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
 
+// Cho một mảng các số nguyên nums và một số nguyên target, trả về chỉ số của hai số sao cho tổng của chúng bằng target .
+
 class TwoSum {
 
     public static int[] twoSum(int[] nums, int target) {
